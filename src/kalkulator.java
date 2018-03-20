@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Saya Agung
+ * @author Saya ArikJunior
  */
 public class kalkulator extends javax.swing.JFrame {
 
